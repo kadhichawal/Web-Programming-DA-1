@@ -1,0 +1,23 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    margin: 20;
+    padding: 10;
+    background-color: rgb(84, 204, 237);
+    color:black;
+}
+
+header {
+    background-color: #e06c7e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+th, td {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
